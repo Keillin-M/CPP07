@@ -6,14 +6,14 @@
 /*   By: kmaeda <kmaeda@student.42berlin.de>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/02/23 13:46:00 by kmaeda            #+#    #+#             */
-/*   Updated: 2026/04/01 15:36:41 by kmaeda           ###   ########.fr       */
+/*   Updated: 2026/04/02 13:48:03 by kmaeda           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../include/whatever.hpp"
 #include <iostream>
 
-int main( void ) {
+int main(void) {
 	int a = 2;
 	int b = 3;
 	
